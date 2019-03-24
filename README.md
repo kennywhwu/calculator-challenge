@@ -10,7 +10,7 @@ Clone and pull repository, then start with:
 ```
 npm start
 ```
-##Future Features
+## Future Features
 * Handle order of operations correctly
 * Add parentheses, exponents, roots functionality
 * Add backspace capability
