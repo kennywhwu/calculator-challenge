@@ -1,0 +1,15 @@
+.Button {
+  display: flex;
+  background-color: white;
+  /* background-color: rgb(150, 184, 112); */
+  border-radius: 8px;
+  box-shadow: 0px 5px grey;
+  border: 0px;
+}
+
+.Button > span {
+  margin: auto;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: grey;
+}

@@ -1,0 +1,14 @@
+.Display {
+  display: flex;
+  grid-column: 2 / span 3;
+  background-color: rgb(115, 140, 173);
+  border-radius: 8px;
+  box-shadow: 0px 5px rgb(85, 103, 128);
+}
+
+.Display > span {
+  margin: auto;
+  font-weight: bold;
+  color: white;
+  font-size: 1.5rem;
+}
